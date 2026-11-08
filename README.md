@@ -38,7 +38,7 @@ Không cần cài Qt hoặc thư viện bên ngoài nào khác.
 
 ## 3. Biên dịch ứng dụng
 
-1. Giải nén tệp ZIP của dự án vào một thư mục thông thường, ví dụ: `C:\Projects\ProcessStatePCB_English`.
+1. Giải nén tệp ZIP của dự án vào một thư mục thông thường, ví dụ: `C:\Projects\ProcessStatePCB`.
 2. Mở tệp `ProcessManagementSimulator.sln` bằng Visual Studio 2022.
 3. Trên thanh công cụ Visual Studio, chọn `Debug` và `x64`.
 4. Chọn **Build → Build Solution** hoặc nhấn `Ctrl + Shift + B`.
