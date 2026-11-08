@@ -135,7 +135,7 @@ Khi người dùng xuất tệp `process_results.csv`, chương trình cũng t�
 ## 8. Cấu trúc dự án
 
 ```text
-ProcessStatePCB_English/
+ProcessStatePCB/
 |-- ProcessManagementSimulator.sln
 |-- ProcessManagementSimulator.vcxproj
 |-- README.md
