@@ -48,13 +48,13 @@ Không cần cài Qt hoặc thư viện bên ngoài nào khác.
 Tệp thực thi được tạo tại:
 
 ```text
-bin\x64\Debug\ProcessManagementSimulator.exe
+app\x64\Debug\ProcessManagementSimulator.exe
 ```
 
 Để tạo bản dùng khi phân phối, chọn `Release | x64` rồi biên dịch lại:
 
 ```text
-bin\x64\Release\ProcessManagementSimulator.exe
+app\x64\Release\ProcessManagementSimulator.exe
 ```
 
 Sau khi biên dịch, Visual Studio sẽ sao chép tệp `input\sample_processes.csv` vào thư mục `input` nằm cạnh tệp EXE. Nhờ vậy, nút nạp dữ liệu mẫu vẫn hoạt động khi chạy EXE từ thư mục đầu ra.
